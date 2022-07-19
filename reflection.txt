@@ -1,8 +1,1 @@
-I thought how it was interesting about (this has to be 5 sentences)
-git clone https//some repository url
-
-git add "filename"
-
-git commit -m "commit message"
-
-git push -u origin main 
+During class today, I though an interesting part of the lesson was the timeline of different ideas on how to approach AI. I thought the rise and fall of popularization of certain ideas of AI in academic settengs was also interesting, because I found it fascinating how someone's beliefs couldbe squashed so easily by the public. I am excited to use Visual Studio Code too, becuase the layout poses such a challenge to me that it's almost fun! During the Think, Pair, Share moments of class, I also met lots of friends with passions similar to me. Think, Pair, Share also allowed me to understand the thoughts of other coders, which is something I haven't done a lot due to my computer class being so small and quiet. 
