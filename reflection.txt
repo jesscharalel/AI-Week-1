@@ -1,0 +1,8 @@
+I thought how it was interesting about (this has to be 5 sentences)
+git clone https//some repository url
+
+git add "filename"
+
+git commit -m "commit message"
+
+git push -u origin main 
